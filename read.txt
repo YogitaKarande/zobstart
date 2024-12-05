@@ -1,0 +1,12 @@
+index3 -> index.html(remove other files) Home Page
+sign-up -> register
+job-grid-view -> jobs.html(remove others jobs- keep job-details)
+employee/
+    employer-dashboard -> dashboard
+    employer-dashboard-job-manage -> posted-jobs.html
+    employer-dashboard-edit-profile -> edit-profile
+    employer-details -> my-profile
+candidate-dashboard -> dashboard
+- applied-jobs -> applied-jobs.html
+
+
